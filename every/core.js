@@ -2,6 +2,11 @@
 // are even numbers.
 
 function allEven (input) {
+  input.every(function() {
+    if ( ) {
+
+    }
+  });
   return input;
 };
 
